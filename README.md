@@ -16,4 +16,4 @@ This is a simple API that returns random motivational quotes which is written in
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/CoderRony955/random-quotes-api/blob/main/LICENSE) file for details.
